@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.3.4",
+    "libraryName": "clicktrack",
+    "libraryId": "1fa0067a-efe3-420b-b5a2-0b8c082700bc",
+    "environment": "spo"
+  }
+}

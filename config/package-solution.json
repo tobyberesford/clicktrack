@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "clicktrack-client-side-solution",
+    "id": "1fa0067a-efe3-420b-b5a2-0b8c082700bc",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/clicktrack.sppkg"
+  }
+}
